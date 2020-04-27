@@ -225,7 +225,7 @@ header {
 
 .contact-content img {
     float: left;
-    margin-left: 80px;
+    margin-right: 126px;
     margin-bottom: 40px;
 }
 
@@ -235,12 +235,12 @@ footer {
     margin-top: 200px;
     background-color: #004D3A;
     color: #fff;
-    height: 100px;
+    height: 90px;
 }
 
 .footer-content {
     float: right;
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 .footer-content img {
