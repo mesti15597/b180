@@ -111,7 +111,7 @@ header {
 }
 
 .hero {
-    padding: 375px 0;
+    padding: 275px 0;
     color: #fff;
 }
 
@@ -135,7 +135,7 @@ header {
 .extra {
     position: absolute;
     top: 82.5%;
-    left: 26.175%;
+    left: 12.5%;
     width: 1220px;
     justify-content: center;
     background: #fff;
@@ -174,8 +174,8 @@ header {
 
 .card {
     float: left;
-    width: 520px;
-    height: 690px;
+    width: 400px;
+    height: 566px;
     background: #00BF8F;
     border-radius: 35px;
     margin: 95px 20px;
@@ -185,7 +185,7 @@ header {
 }
 
 .card img {
-    width: 520;
+    width: 400;
     height: initial;
 }
 
@@ -194,7 +194,7 @@ header {
 }
 
 .card-content {
-    padding: 20px 40px;
+    padding: 20px 20px;
 }
 
 .price {
